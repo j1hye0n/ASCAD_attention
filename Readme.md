@@ -1,6 +1,8 @@
 # About This Repository
 Repository is made to learn "Attention" method at Sookmyung Women Universsity - Advanced AI lecture.
+
 So Only ASCAD_train_models.py be Modified.
+
 Original github : [here](https://github.com/ANSSI-FR/ASCAD)
 ## About
 
