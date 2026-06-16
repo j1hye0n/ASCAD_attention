@@ -1,3 +1,7 @@
+# About This Repository
+Repository is made to learn "Attention" method at Sookmyung Women Universsity - Advanced AI lecture.
+So Only ASCAD_train_models.py be Modified.
+Original github : [here](https://github.com/ANSSI-FR/ASCAD)
 ## About
 
 **ASCAD** (ANSSI SCA Database) is a set of databases that aims at providing a benchmarking reference for the SCA community: the purpose is to have something similar to the [MNIST database](http://yann.lecun.com/exdb/mnist/) that the Machine Learning community has been using for quite a while now to evaluate classification algorithms performance.
